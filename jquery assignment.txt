@@ -1,0 +1,45 @@
+What is jQuery?
+jQuery is a lightweight, "write less, do more", JavaScript library. The purpose of jQuery is to make it much easier to use JavaScript on your website.
+
+How to Apply CSS Using JQuery, How to Add Class and Remove Class in Jquery, JQuery Animation?
+addClass() - Adds one or more classes to the selected elements.
+removeClass() - Removes one or more classes from the selected elements.
+toggleClass() - Toggles between adding/removing classes from the selected elements.
+
+How to create slider with animation?
+Come up with a strategy for the slider. Update the background image in each slide. Update the text layers in each slide. Edit the slider navigation.
+
+4)what is thejQuery Basic 
+a) jQuery Introduction 
+b) jQuery Getting Started 
+c) jQuery Syntax 
+d) jQuery Selectors 
+e) jQuery Events 
+
+5) What is jQuery and why is it used? 
+jQuery is a lightweight, "write less, do more", JavaScript library. The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code. 
+
+6) What is JQuery?
+jQuery is a lightweight, "write less, do more", JavaScript library. The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code. jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation. 
+
+7) how to Downloading JQuery File?
+There are two versions of jQuery available for downloading: Production version - this is for your live website because it has been minified and compressed Development version - this is for testing and development (uncompressed and readable code) Both versions can be downloaded from jQuery.com. The jQuery library is a single JavaScript file, and you reference it with the HTML Tip: Place the downloaded file in the same directory as the pages where you wish to use it. 
+
+8) what is the JQuery Advanced?
+1) jQuery Traversing 
+2) jQuery Ancestors 
+3) jQuery Descendants 
+4) jQuery Siblings 
+5) jQuery Filtering 
+6) jQuery Load 
+7) jQuery No-Conflict 
+
+9) How to Apply CSS Using JQuery? 
+4 ways to use jQuery's CSS method Get a CSS Property with jQuery. 
+Let's start by taking a look at using jQuery's . ... 
+Get multiple CSS properties. 
+To return multiple CSS properties, pass in an array of CSS properties. ... 
+Set a CSS property with jQuery. ..
+Set multiple CSS properties. 
+
+10) How to Add Class and Remove Class in Jquery? "In the same way you can add classes to an element with jQuery's addClass() function, you can remove them with jQuery's removeClass() function. Here's how you would do this for a specific button: $("#target2"). removeClass("btn-default")
